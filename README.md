@@ -1,3 +1,3 @@
-mary villamedian
+Mary Villamediana
 CI14948128
-modificando el archivo README
+
