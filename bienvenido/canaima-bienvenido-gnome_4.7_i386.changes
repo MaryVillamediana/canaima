@@ -15,17 +15,17 @@ Changes:
  .
    * [fb7eebf] Cambiando escudo de la img venezuela del arcerca
 Checksums-Sha1: 
- 9909aea3954f668b339ba05a7cb7a194c57a3df8 1229 canaima-bienvenido-gnome_4.7.dsc
+ c9b5e9d7e3c0ad38a6ec289a492deef9d20e1ea6 1229 canaima-bienvenido-gnome_4.7.dsc
  d2f3b86328300ca0d089dc7ac541d79162651933 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
- 1bfeb8f1cc63ed455e3159b90fe3752c38c5502a 8164 canaima-bienvenido-gnome_4.7.debian.tar.gz
- 678d18e95eee96291c2f76f7be4ab36db99889ba 954350 canaima-bienvenido-gnome_4.7_all.deb
+ 80fb7fc6881e5978900b5d9b5607ba2c7257480c 8449 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 0d71f3634a9d78f5f53879cb7a9d2fa8ad899126 954326 canaima-bienvenido-gnome_4.7_all.deb
 Checksums-Sha256: 
- dbac2f332f4721a3b2f4db2c52b31393d6caed39f69c6aaa45ee9c34515a11ba 1229 canaima-bienvenido-gnome_4.7.dsc
+ 48609761dcd5b43ddcbb2a43045ba66b17520fa729e253e704d3312f7d48ad78 1229 canaima-bienvenido-gnome_4.7.dsc
  a5b0bd4fb908953e1d97117a97aa0ffb93aacd0ab4ace52c7939f5eefe825058 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
- 9fd1356578a38b043ffa3ba76a3757118344a1138631ae3e6bb17932b68f3ed7 8164 canaima-bienvenido-gnome_4.7.debian.tar.gz
- 498b066aa932aea818d2899ce2abddd9517877b519f0f9f2661a5e4b01b3ea6a 954350 canaima-bienvenido-gnome_4.7_all.deb
+ 8481c2e77a362624ceed7e1d817f80ecdf26be80baa85697ebfd87e6d6f1b7d1 8449 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 46ee8287de4a60a05e62922afc85b947ba36b130d05282219c840f1792742871 954326 canaima-bienvenido-gnome_4.7_all.deb
 Files: 
- 5f73ca8bf803d2096c59adf99ef0bc53 1229 misc optional canaima-bienvenido-gnome_4.7.dsc
+ c797b03fc422c540d97f7b0605753ef9 1229 misc optional canaima-bienvenido-gnome_4.7.dsc
  4cbd151c306cd6cd5087267a1c3a594d 988295 misc optional canaima-bienvenido-gnome_4.7.orig.tar.gz
- 7c740e0298a9e9b1df4380a8e309e654 8164 misc optional canaima-bienvenido-gnome_4.7.debian.tar.gz
- e34b0e587a6882f8e3483f1f99428b40 954350 misc optional canaima-bienvenido-gnome_4.7_all.deb
+ 21920f869dc168bd252bff3e308aaf84 8449 misc optional canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 89e19d23b046b3bb20e14877ef3a20c1 954326 misc optional canaima-bienvenido-gnome_4.7_all.deb
